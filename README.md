@@ -1,15 +1,4 @@
-# Agile-Flow-2-5
-### Team Leader: Pranjal Pimple
-###     Contact Info: Mob. No: +15306365789, Email: phpimpale@csuchico.edu
-### Team Members: 
-### 1. Prathemesh Kalantri- 
-###     Contact Info - Mob. No: +16199029002, Email: pbkalantri@csuchico.edu 
-### 2. Prasad Shinde- 
-###     Contact Info - Mob. No: +15308154621, Email: pshinde2@csuchico.edu
-### 3. Gitesh Pawar- 
-###     Contact Info - Mob. NO: +15303217289, Email: grpawar@csuchico.edu
-### 4. Vyankatesh Kalantri- 
-###     Contact Info - Mob. NO: +16193927708, Email: vkalantri@csuchico.edu
+# ResumeRecipe
 
 # Project Documents
 
